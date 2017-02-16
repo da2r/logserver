@@ -1,0 +1,23 @@
+{
+  "name": "logserver",
+  "version": "1.0.0",
+  "description": "Web Server to record application debug log from applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slumberland/logserver.git"
+  },
+  "keywords": [
+    "node",
+    "logserver"
+  ],
+  "author": "Herman Sidharta",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/slumberland/logserver/issues"
+  },
+  "homepage": "https://github.com/slumberland/logserver#readme"
+}
