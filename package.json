@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/slumberland/logserver/issues"
   },
-  "homepage": "https://github.com/slumberland/logserver#readme"
+  "homepage": "https://github.com/slumberland/logserver#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
 }
